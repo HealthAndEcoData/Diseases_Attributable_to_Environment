@@ -1,0 +1,7 @@
+Dimension,Code,Title,ParentDimension,ParentCode,ParentTitle
+GHO,TOTENV_1,Deaths attributable to the environment,,,
+GHO,TOTENV_2,Age-standardized deaths attributable to the environment (per 100 000 population),,,
+GHO,TOTENV_3,Disability-adjusted life years (DALYs) attributable to the environment,,,
+GHO,TOTENV_4,Age-standardized DALYs attributable to the environment (per 100 000 population),,,
+GHO,TOTENV_5,Deaths attributable to the environment (%),,,
+GHO,TOTENV_6,Disability-adjusted life years (DALYs) attributable to the environment (%),,,
