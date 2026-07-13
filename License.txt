@@ -1,0 +1,9 @@
+Copyright © 2026 HealthAndEcoData. 
+
+All rights reserved.
+
+This repository is provided for portfolio and demonstration purposes only.
+
+The Power BI dashboard, report design, DAX measures, Power Query transformations, documentation, and other original content in this repository are the intellectual property of the author. No permission is granted to use, copy, modify, reproduce, distribute, or commercially exploit any original content from this repository without the author's prior written permission.
+
+This repository incorporates publicly available data from the World Health Organization (WHO). The original dataset remains the property of its respective owner and is subject to the WHO's terms of use.  
